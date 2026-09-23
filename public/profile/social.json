@@ -2,19 +2,15 @@
     "social": [
         {
             "network" : "linkedin",
-            "href": "https://linkedin.com/"
+            "href": "https://www.linkedin.com/in/zunaira-ahmed23"
         },
         {
             "network" : "github",
-            "href": "https://github.com/mayankagarwal09"
-        },
-        {
-            "network" : "leetcode",
-            "href": "https://leetcode.com/"
+            "href": "https://github.com/ahmed-zunaira"
         },
         {
             "network" : "email",
-            "href": "mailto:test@test.com"
+            "href": "mailto:zunairaaahmed73@gmail.com"
         }
     ]
 }

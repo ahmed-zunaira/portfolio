@@ -66,7 +66,7 @@ function Home() {
           </div>
 
           <div className="tile hero-social span-2">
-            <span className="tile-label">Find me</span>
+            <span className="tile-label">Find me here!</span>
             <Social />
           </div>
         </div>
