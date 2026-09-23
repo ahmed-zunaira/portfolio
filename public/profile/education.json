@@ -6,7 +6,7 @@
             "cardSubtitle":"University of Toronto",
             "cardDetailedText": "CGPA - 3.7",
             "icon" : {
-                "src": "images/education/uoft.jpg"
+                "src": "/images/education/uoft.jpg"
             }
         },
         {
@@ -14,7 +14,7 @@
             "cardTitle": "Central Peel Secondary School",
             "cardSubtitle":"Brampton, ON",
             "icon" : {
-                "src": "images/education/cpss.jpeg"
+                "src": "/images/education/cpss.jpeg"
             }
         }
     ]
