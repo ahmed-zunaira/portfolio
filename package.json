@@ -31,7 +31,7 @@
   },
   "homepage": "https://ahmed-zunaira.github.io/portfolio",
   "scripts": {
-    "dev": "vite",
+    "dev": "vite",np
     "build": "vite build",
     "preview": "vite preview",
     "test": "vitest run",
