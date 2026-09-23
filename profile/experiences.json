@@ -1,33 +1,26 @@
 {
     "experiences": [
         {
-            "title": "Software Engineer",
-            "subtitle": "XYZ Ltd",
+            "title": "Deep Learning & Business Development",
+            "subtitle": "University of Toronto Aerospace Team",
             "workType": "Full-time",
             "workDescription": [
-                "Integrated **2** new product.",
-                "Worked on adding **def** to **bcd**. Improved speed by 50%."
+                "Performed spectral unmixing of endmembers from compiled lab satellite data using a Multi-Layered Perceptron (MLP), conducted hyperparameter tuning to optimize accuracy, and presented a report on adequacy of the model to the team.",
+                "Created sensor registry and subsets of pixel spectra along with reference spectra to gather evaluation metrics for the 3-member subteam’s current work in developing a physics-informed foundational model for sensor transfer.",
+                "Collaborated with two members in BD team to produce the overall team’s sponsorship package and performed outreach to other CubeSat design teams across Canada, creating collaborative workshop proposals and managing events."
             ],
-            "dateText": "06/20XX – Present"
+            "dateText": "05/2026 – Present"
         },
         {
-            "title": "Software Engineer",
-            "subtitle": "XYZ Ltd",
-            "workType": "Internship",
+            "title": "Team Lead",
+            "subtitle": "STEM Fellowship Club",
+            "workType": "Full-time",
             "workDescription": [
-                "Worked on abc."
+                "Coordinated with 150+ private investigators (PIs) for the STEM Fellowship Indicium Program.",
+                "Managed a 4-member team and set deadlines with 5 PIs to form undergraduate research groups.",
+                "Selected 10 students from 140 applications and facilitated collaborative research on AI’s applications in the field of healthcare."
             ],
-            "dateText": "01/20XX – 05/20XX"
-        },
-        {
-            "title": "App Developer",
-            "subtitle": "ABC Pvt Ltd",
-            "workType": "Freelance",
-            "workDescription": [
-                "Developed the official apps for the startup for both Android and iOS using hybrid framework.",
-                "Done bcd work."
-            ],
-            "dateText": "09/20XX – 01/20YY"
+            "dateText": "09/2025 – Present"
         }
     ]
 }
