@@ -31,13 +31,13 @@
   },
   "homepage": "https://ahmed-zunaira.github.io/portfolio",
   "scripts": {
-    "dev": "vite",np
+    "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
     "test": "vitest run",
     "lint": "eslint src",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist"
+    "deploy": "gh-pages -d build"
   },
   "devDependencies": {
     "@emotion/react": "^11.13.3",
