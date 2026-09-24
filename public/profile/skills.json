@@ -6,27 +6,27 @@
             "items" : [
      
                 {
-                    "icon": "/images/skills/java.png",
+                    "icon": "images/skills/java.png",
                     "title": "Java"
                 },
                 {
-                    "icon": "/images/skills/c-plus-plus.svg",
+                    "icon": "images/skills/c-plus-plus.svg",
                     "title": "C++"
                 },
                 {
-                    "icon": "/images/skills/python.png",
+                    "icon": "images/skills/python.png",
                     "title": "Python"
                 },
                 {
-                    "icon": "/images/skills/c.webp",
+                    "icon": "images/skills/c.webp",
                     "title": "C"
                 },
                 {
-                    "icon": "/images/skills/css.png",
+                    "icon": "images/skills/css.png",
                     "title": "CSS"
                 },
                 {
-                    "icon": "/images/skills/html.png",
+                    "icon": "images/skills/html.png",
                     "title": "HTML"
                 }
         ]},
@@ -34,11 +34,11 @@
             "title": "Frameworks & Technologies",
             "items" : [
                 {
-                    "icon": "/images/skills/arduino.webp",
+                    "icon": "images/skills/arduino.webp",
                     "title": "Arduino"
                 },
                 {
-                    "icon": "/images/skills/edge_impulse.png",
+                    "icon": "images/skills/edge_impulse.png",
                     "title": "Edge Impulse"
                 }
             ]
@@ -47,15 +47,15 @@
             "title" : "Tools & Platforms",
             "items": [
                 {
-                    "icon": "/images/skills/git.png",
+                    "icon": "images/skills/git.png",
                     "title": "Git"
                 },
                 {
-                    "icon": "/images/skills/docker.png",
+                    "icon": "images/skills/docker.png",
                     "title": "Docker"
                 },
                 {
-                    "icon": "/images/skills/vscode.jpeg",
+                    "icon": "images/skills/vscode.jpeg",
                     "title": "Visual Studio Code"
                 }
             ]
